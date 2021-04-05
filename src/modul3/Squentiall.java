@@ -4,7 +4,7 @@ public class Squentiall {
  public static void main(String[] args) {
      Scanner input = new Scanner(System.in);
      
-     String[] angka = {"Gellio", "Archimedez", "alkhawarizmi", "aljabar", "Pagit krisnandi", "tesla"};
+     String[] angka = {"Gellio", "Archimedez", "alkhawarizmi", "aljabar", "Aqshal Sayyidina", "tesla"};
      int found = 0;
      System.out.println("nama-nama orang yang berpengaruh:\n");
      for (int i=0; i<angka.length; i++){
